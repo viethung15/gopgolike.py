@@ -1,0 +1,1 @@
+# gopgolike.py
